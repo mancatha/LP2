@@ -15,19 +15,19 @@ Customer attrition is one of the biggest expenditure of any organization. Custom
 
 ### Univariate Analysis 
 
-![Alt text](images/churn.png)
+![Alt text](image/churn.png)
 
-![Alt text](images/gender.png)
+![Alt text](image/gender.png)
 
-![Alt text](images/internet.png)
+![Alt text](image/internet.png)
 
-![Alt text](images/payment.png)
+![Alt text](image/payment.png)
 
-![Alt text](images/totalcharges.png)
+![Alt text](image/totalcharges.png)
 
 ### Multivariate Analysis 
 
-![Alt text](images/mul.png)
+![Alt text](image/mul.png)
 
 ## Hypothesis development 
 
@@ -40,23 +40,23 @@ based on chi-square test, we observe that the p-value is less than alpha, hence 
 ## Business questions
 1. How does gender impact customer churn? 
 
-![Alt text](images/q1.png)
+![Alt text](image/q1.png)
 
 2. Does the presence of a partner or dependents influence customer churn? 
 
-![Alt text](images/q2.png)
+![Alt text](image/q2.png)
 
 3. How does the length of tenure affect churn rates? 
 
-![Alt text](images/q3.png)
+![Alt text](image/q3.png)
 
 4. What role do additional services (e.g., online security, tech support, streaming TV, etc.) play in reducing customer churn? 
 
-![Alt text](images/q4.png)
+![Alt text](image/q4.png)
 
 5. Is there a correlation between the contract term (month-to-month, one year, two years) and churn rates? 
 
-![Alt text](images/q5.png)
+![Alt text](image/q5.png)
 
 ## Setup
 1. **Clone the repository:**
